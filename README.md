@@ -10,3 +10,6 @@
 - 🎮 Developed a fully working Breakout game with paddle, ball physics, and random ball spawns
 - 🌟 Built a responsive personal portfolio website with light and dark mode toggle
 - 🎯 Continuously learning and working on browser extensions and mini-games
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=broodje565&show_icons=true&locale=en" alt="broodje565" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broodje565&show_icons=true&locale=en&layout=compact" alt="broodje565" /></p>

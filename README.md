@@ -7,7 +7,7 @@
 
  ### 🏆 Achievements
 - 🚀 Published my first website at the age of 13
-- 🎮 Developed a fully working Breakout game with paddle, ball physics, and random ball spawns
+- 🎮 Developed a fully working Breakout game with paddle and ball physics
 - 🌟 Built a responsive personal portfolio website with light and dark mode toggle
 - 🎯 Continuously learning and working on browser extensions and mini-games
 

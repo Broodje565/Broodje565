@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=broodje565&theme=onedark-ma&no-bg=false&margin-w=15" alt="broodje565" /></a> </p>
+
 - 👋 Hi, I’m @Broodje56
 - 👀 I’m interested in web development, game development, and building cool tech projects.
 - 💞️ I’m looking to collaborate on web apps, games, and open-source tools.
